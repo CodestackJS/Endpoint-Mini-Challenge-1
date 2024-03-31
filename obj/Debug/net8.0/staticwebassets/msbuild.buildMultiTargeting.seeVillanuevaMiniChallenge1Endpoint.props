@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\seeVillanuevaMiniChallenge1Endpoint.props" />
+</Project>

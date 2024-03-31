@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\seeVillanuevaMiniChallenge1Endpoint.props" />
+</Project>

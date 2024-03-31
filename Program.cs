@@ -36,8 +36,9 @@ app.MapGet("/weatherforecast", () =>
 .WithName("GetWeatherForecast")
 .WithOpenApi();
 
+// Mini Challenge 1 Endpoint
 app.MapGet("/endPointMiniChallenge1",(string firstName, string lastName) => {
-    return  firstName + "" + lastName + " is learning how to design an API endpooint that receives user input and outputs a personalize greeting.";
+    return  firstName + " " + lastName + " is learning how to design an API endpooint that receives user input and outputs a personalize greeting.";
 });
 
 

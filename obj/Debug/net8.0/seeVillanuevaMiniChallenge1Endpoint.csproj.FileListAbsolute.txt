@@ -31,3 +31,4 @@ C:\Users\jlsee\OneDrive\Documents\Level2\Assignment\seeVillanuevaMiniChallenge1E
 C:\Users\jlsee\OneDrive\Documents\Level2\Assignment\seeVillanuevaMiniChallenge1Endpoint\obj\Debug\net8.0\seeVillanuevaMiniChallenge1Endpoint.pdb
 C:\Users\jlsee\OneDrive\Documents\Level2\Assignment\seeVillanuevaMiniChallenge1Endpoint\obj\Debug\net8.0\seeVillanuevaMiniChallenge1Endpoint.genruntimeconfig.cache
 C:\Users\jlsee\OneDrive\Documents\Level2\Assignment\seeVillanuevaMiniChallenge1Endpoint\obj\Debug\net8.0\ref\seeVillanuevaMiniChallenge1Endpoint.dll
+C:\Users\jlsee\OneDrive\Documents\Level2\Assignment\seeVillanuevaMiniChallenge1Endpoint\obj\Debug\net8.0\seeVillanuevaMiniChallenge1Endpoint.sourcelink.json
